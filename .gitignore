@@ -65,7 +65,7 @@ steamworks_sdk_*/sdk/tools/ContentBuilder/builder/logs
 !steamworks_sdk_*/sdk/tools/ContentBuilder/scripts/*
 
 # Ignore Build artifacts
-Build/*/**
+Build/**/*
 
 # Built data for maps
 *_BuiltData.uasset
